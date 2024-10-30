@@ -230,7 +230,7 @@ for i, alpha in enumerate(alphas) :
 
 df = pd.DataFrame(dict_results)
 print(df)
-df.to_csv('results_' + name +'.csv', index = False)
+df.to_csv('opl/results_' + name +'.csv', index = False)
 
 
 

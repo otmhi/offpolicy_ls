@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 estimators = get_estimators(delta = 0.05/4) # we have 4 policies to test with delta 0.05
 est_names = [est.get_abbrev() for est in estimators]
-result_folder = 'ops_results'
+result_folder = 'ope_ops/ops_results'
 
 print('The different estimators that are tested are:', est_names)
 

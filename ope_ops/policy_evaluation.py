@@ -82,7 +82,7 @@ for data_id in tqdm(uci_all):
 
 pd_norm_radius = pd.DataFrame(values)
 
-pd_norm_radius.to_csv('ope_results/all_radiuses.csv', index=False)
+pd_norm_radius.to_csv('ope_ops/ope_results/all_radiuses.csv', index=False)
 
 
       
