@@ -37,7 +37,7 @@ To run OPL experiments, please execute:
     python policy_learning.py
 
 ## Citing this work
-If you use this code, please cite our work
+If you use this code, please cite our work (This will be updated once the proceedings are out)
 
     @misc{sakhi2024logarithmicsmoothingpessimisticoffpolicy,
       title={Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning}, 
