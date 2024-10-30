@@ -21,6 +21,8 @@ The code for these experiments is heavily inspired from their associated [Github
 
 OPE and OPS experiments are defined in the ope_ops folder, move to it if you want to run them.
 
+    cd ope_ops
+    
 To run OPE experiments, please execute:
 
     python policy_evaluation.py
@@ -32,6 +34,8 @@ To run OPS experiments, please execute:
 ### Run OPL experiments
 
 OPL experiments are defined in the opl folder, move to it if you want to run them.
+
+    cd opl
 
 To run OPL experiments, please execute:
 
