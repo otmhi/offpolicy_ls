@@ -18,21 +18,21 @@ A virtual Python environment can be created from the requirement file holding al
 The OPE/OPS experiments are built on the experiments conducted in [Confident Off-Policy Evaluation and Selection through
 Self-Normalized Importance Weighting](https://arxiv.org/abs/2006.10460), and used the associated [Github package](https://github.com/google-deepmind/offpolicy_selection_eslb).
 
-OPE and OPS experiments are defined in the ope_ops folder, move to it if you want to run them:
+OPE and OPS experiments are defined in the ope_ops folder, move to it if you want to run them.
 
-To run OPE experiments, run:
+To run OPE experiments, please execute:
 
     python policy_evaluation.py
 
-To run OPS experiments, run:
+To run OPS experiments, please execute:
 
     python policy_selection.py
 
 ### Run OPL experiments
 
-OPL experiments are defined in the opl folder, move to it if you want to run them:
+OPL experiments are defined in the opl folder, move to it if you want to run them.
 
-To run OPL experiments, run:
+To run OPL experiments, please execute:
 
     python policy_learning.py
 
