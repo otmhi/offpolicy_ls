@@ -1,6 +1,6 @@
 # Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning
 
-Source code for the paper "Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning" published at NeuRIPS.
+Source code for the paper "Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning" published at NeuRIPS 2024 (Spotlight).
 
 
 ## Creating the environment
