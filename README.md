@@ -1,6 +1,6 @@
 # Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning
 
-Source code for the paper ["Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning" - Otmane Sakhi, Imad Aouali, Pierre Alquier, Nicolas Chopin]([https://arxiv.org/abs/2405.14335](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9379ea6ba7a61a402c7750833848b99f-Abstract-Conference.html)) published at NeuRIPS 2024 (Spotlight).
+Source code for the paper ["Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning" - Otmane Sakhi, Imad Aouali, Pierre Alquier, Nicolas Chopin](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9379ea6ba7a61a402c7750833848b99f-Abstract-Conference.html) published at NeuRIPS 2024 (Spotlight).
 
 
 ## Creating the environment
