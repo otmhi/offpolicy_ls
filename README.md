@@ -1,6 +1,6 @@
 # Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning
 
-Source code for the paper ["Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning" - Otmane Sakhi, Imad Aouali, Pierre Alquier, Nicolas Chopin](https://arxiv.org/abs/2405.14335) published at NeuRIPS 2024 (Spotlight).
+Source code for the paper ["Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning" - Otmane Sakhi, Imad Aouali, Pierre Alquier, Nicolas Chopin]([https://arxiv.org/abs/2405.14335](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9379ea6ba7a61a402c7750833848b99f-Abstract-Conference.html)) published at NeuRIPS 2024 (Spotlight).
 
 
 ## Creating the environment
@@ -34,11 +34,15 @@ To run OPL experiments, please execute:
     python opl/policy_learning.py
 
 ## Citing this work
-If you use this code, please cite our work (This will be updated once the proceedings are out)
+If you use this code, please cite our work:
 
-    @misc{sakhi2024logarithmicsmoothingpessimisticoffpolicy,
-      title={Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning}, 
-      author={Otmane Sakhi and Imad Aouali and Pierre Alquier and Nicolas Chopin},
-      year={2024},
-      eprint={2405.14335},
-      url={https://arxiv.org/abs/2405.14335}}
+    @inproceedings{NEURIPS2024_9379ea6b,
+     author = {Sakhi, Otmane and Aouali, Imad and Alquier, Pierre and Chopin, Nicolas},
+     booktitle = {Advances in Neural Information Processing Systems},
+     editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+     pages = {80706--80755},
+     publisher = {Curran Associates, Inc.},
+     title = {Logarithmic Smoothing for Pessimistic Off-Policy Evaluation, Selection and Learning},
+     url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/9379ea6ba7a61a402c7750833848b99f-Paper-Conference.pdf},
+     volume = {37},
+     year = {2024}}
